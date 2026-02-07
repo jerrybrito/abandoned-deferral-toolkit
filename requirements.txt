@@ -1,0 +1,2 @@
+# Requires: meta-interval
+# (Not available on PyPI)
